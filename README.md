@@ -1,6 +1,3 @@
 # SpiderClassificationModel
-A model to classify species of spiders based on genitalia.
 
-This project is a collaborative work between Dr. Heins, Clever Nieto-Lazo, and Job Wosmek.
-
-The initial model is based on images collected by Dr. Heins.
+This collaborative project led by Dr. Heins, Clever Nieto-Lazo, and Job Wosmek focuses on the development of a specialized model for the classification of spider species. The foundation of this model uses a comprehensive dataset of spider images meticulously collected by Dr. Heins. By harnessing advanced image recognition and machine learning techniques, we aim to create an accurate and efficient classification system that can distinguish between various spider species based on unique genitalia characteristics. 
